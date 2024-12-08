@@ -54,9 +54,6 @@ The Drawing Program is an educational application written in Python using the `t
 5. **Toggling the grid**:
    - Click the “Show/Hide Grid” button to toggle grid visibility on the canvas.
 
-## Files
-
-- `main.py`: Main application script
 
 ## Customization
 
