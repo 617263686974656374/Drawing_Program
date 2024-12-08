@@ -55,10 +55,3 @@ The Drawing Program is an educational application written in Python using the `t
    - Click the “Show/Hide Grid” button to toggle grid visibility on the canvas.
 
 
-## Customization
-
-You can modify the program code to fit your needs. For example, you can adjust:
-
-- Canvas dimensions (`width`, `height`)
-- Object styles and colors (e.g., `fill`, `outline`)
-
