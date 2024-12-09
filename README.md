@@ -21,11 +21,6 @@ The Drawing Program is an educational application written in Python using the `t
    - Start points (green)
    - End points (red)
 
-## Requirements
-
-- Python 3.x
-- `tkinter` (part of Python standard library)
-
 ## Installation
 
 1. Ensure you have Python 3.x installed.
