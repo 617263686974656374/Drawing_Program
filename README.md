@@ -21,15 +21,6 @@ The Drawing Program is an educational application written in Python using the `t
    - Start points (green)
    - End points (red)
 
-## Installation
-
-1. Ensure you have Python 3.x installed.
-2. Download the source code of the program.
-3. Run the script using the command:
-   ```bash
-   python <script_name>.py
-   ```
-
 ## Usage
 
 1. **Launching the program**:
